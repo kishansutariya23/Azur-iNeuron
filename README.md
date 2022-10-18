@@ -5,8 +5,9 @@ This repository contains the small Notes on AZUR CLOUD learnt from iNeuron
 <br>
 
 # 🛣️RoadMap
+[certificate roadmap](https://k21academy.com/microsoft-azure/certification-path/)
 
-
+![Azur-all-certificates-3.png](./images/Azure-all-certifications-3.png)
 <br>
 
 
