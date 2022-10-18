@@ -1,4 +1,4 @@
-# Azur-iNeuron
+# Azure-iNeuron
 
 This repository contains the small Notes on AZUR CLOUD learnt from iNeuron
 
