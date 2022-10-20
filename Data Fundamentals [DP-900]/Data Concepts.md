@@ -2,7 +2,7 @@
 
 <br>
 
-# 🛣️ Check RoadMap to master AZUR cloud
+<!-- # 🛣️ Check RoadMap to master AZUR cloud -->
 <br>
 
 <br>
@@ -47,17 +47,100 @@
 
 
 ## 🚏 Types of Cloud Computing
+
+<img src="../images/Types of Cloud computing.jpg">
+
+- IaaS
+- PaaS
+- SaaS 
+
+<img src='../images/Data Related Roles.jpg'>
+
 ## 🚏 Azur Data Related Roles
+
+- Database administrators
+    - they manages DB, assigning permission to users, storing backup copies of data and restore data in the event of a failure
+- Data engineers
+    - They manage infrastructure and processes for data integration across the organization, applying data cleaning routines, identifying data governance rules, and implementing pipelines to transfer and transform data between system
+- Data analysts
+    - They explore and analyze data to create visualizations and charts that enable organizations to make informed decisions.
+
+
 ## 🚏 Database Administration Common Tools
+- Azure data studio [replace of SQL Server Management Studio]
+- SSMS [available on local machine but we can connect to other data with valid credentials]
+- Azure CLI
+
 ## 🚏 Data Engineering Common Tools
+- Azure Synapse Analytics is use to manage integration of below
+    - Azure Data Factory
+    - SQL Pools
+    - Spark pool
+
 ## 🚏 Data Analyst Common Tools
+- Power BI [all services]
+
 ## 🚏 Data Overview
+<img src="../images/Data Over View.jpg">
+
 ## 🚏 Introduction to Data
+
+- Data is a unit of information(it is collection of facts) that could be in the form of numbers, text, or machine code, images, videos, audio or physical(Handwriting)
+
+- Data can be in form of
+    - structured
+        - row and columns
+    - semi-structured
+        - key-value pair
+    - unstructured
+        - email
+        - audio
+        - video
 ## 🚏 Data Documents
+- A data document defines the collective form in which data exists
+- common types
+    - Datasets--> a logical grouping of data
+    - DB--> Structured data that can be quickly access and searched
+    - Datastore--> Unstructured or semi-structured data to housing data
+    - Data Warehouse--> Structured or semi-structured data for creating reports and analytics
+    - Notebooks--> Data that is arranged in pages, Designed for easy consumption
+
 ## 🚏 Data Sets
+Data set is logical grouping of unit of data that generally are closely related and/or share the same data structure.
+- google dataset search [platform for dataset]
+
 ## 🚏 Data Types
-## 🚏 Schema VS Schemaless
+It is a single unit of data that tells a complier or interpreter(computer program) how data is intended to be used.
+- In Python we have
+    - Numeric [Integer, Complex number, float]
+    - Dictionary
+    - Boolean
+    - Set
+    - Sequence types [String, List, Tuple]
+
+## 🚏 Schema VS Schemaless [Blueprint]
+- Schema
+    - A DB schema defines how data is organized within a relational DB but it not contains data.
+    - This is inclusive of logical constraints such as table names, fields, data types, and the relationships between these entities
+    - EX:- SQL 
+- Schemaless
+    - In schemaless DB, information is stored in JSON-Style documents which can have varying sets of fields with different data types for each fields. 
+    - So, a collection could look like this
+
+        > {
+        >     name:"ks",age:"23",interests:"DE"
+        > }
+        >
+        > {
+        >     name:"g",age:"23"
+        > }
+
 ## 🚏 Query and Querying
+
+> SELECT * FROM table_name
+- Query : request for data results
+- Querying : Act of performing the query
+
 ## 🚏 Batch VS Stream Processing
 ## 🚏 Relational Data
 ## 🚏 Relational Data Relationships
