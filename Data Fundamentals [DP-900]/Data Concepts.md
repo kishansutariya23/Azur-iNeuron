@@ -142,8 +142,53 @@ It is a single unit of data that tells a complier or interpreter(computer progra
 - Querying : Act of performing the query
 
 ## 🚏 Batch VS Stream Processing
+- Movement of data can be happen in either of these way
+    - Batch  : These are schedule (based on the given time by person)
+    - Stream : Live data@real-time (less than 1sec)
+
+
 ## 🚏 Relational Data
+
+
 ## 🚏 Relational Data Relationships
 ## 🚏 Row Store VS Column Store
 ## 🚏 Database Index
 ## 🚏 Data Integrity VS Data Corruption
+
+## Normalized VS Denormalized Data
+## Pivot Table
+## Strongly Consistent VS Eventually Consistent
+## Synchronus VS Asynchronous
+## Non Relational Data
+## Data Source
+## Data Store
+## Database
+## Data Warehouse
+## Data Mart
+## Data Lakes
+## Data Lakehouse
+## Data Structures
+## UnStructured Data
+## Semi Structure
+## Semi Structure Data Structures
+## Semi Structure JSON
+## Semi Structure ORC
+## Semi Structure Parquets
+## Semi Structure AVRO
+## Structured Data
+## Data Mining
+## Data Mining Methods
+## Data Wrangling
+## Data Modeling
+## ETL VS ELT
+## Data Analytics
+## Key Performance Indicators (KPI)
+## Data Analytics Techniques
+## Microsoft One Drive
+## Microsoft Sharepoint
+
+
+
+
+
+
